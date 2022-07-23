@@ -1,0 +1,47 @@
+.btn-secondary {
+    background-color: #abd9ff;
+    color: black; /* font*/
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px #ccd4e9;
+}
+.btn-secondary:hover {
+    background-color: white;
+    color: black; /* font*/
+}
+.carousel-control-next, .carousel-control-prev {
+    background-color: black;
+}
+.carousel {
+    text-align: center;
+    
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+nav.bg-light {
+    background-color: #ffcf00 !important;
+}
+.container-1 {
+    position: relative;
+    color: white;
+}
+.ferrari-img-text {
+    position: absolute;
+    display: flex;
+    right: 190px;
+    top: 100px;
+    flex-direction: column;
+    border: 2px solid white;
+}
+.ferrari-img {
+    width: 100%;
+    padding: 0 150px;
+}
+h2 {
+    text-align: right;
+}
+.horse {
+    width: 100px;    
+}
